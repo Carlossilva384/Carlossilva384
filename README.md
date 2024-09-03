@@ -9,7 +9,7 @@ Eu sou o Carlos Silva, sou um Programador Front End, atualmente estou aprendendo
 
 ### Entre em contato: 
 <p>
-<a href="[www.linkedin.com/in/carlos-alb-silva](https://www.linkedin.com/in/carlos-silva-3b5695155/#:~:text=www.linkedin.com/in/carlos%2Dalb%2Dsilva)">
+<a href="https://www.linkedin.com/in/carlos-silva-3b5695155/">
 <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> 
   <a/>
     <p/>
